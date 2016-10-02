@@ -1,21 +1,31 @@
 package il.co.handasaim.takenoteapp;
 
+import com.parse.ParseClassName;
+import com.parse.ParseObject;
+
 import java.io.Serializable;
 
 /**
  * Represents a single note with text
  * Created by Eidan on 9/16/2016.
  */
-public class Note implements Serializable{
+@ParseClassName("Note")
+public class Note extends ParseObject implements Serializable {
 
-    private String text;
+    /**
+     * Creates a new instance of the note class
+     */
+    public Note() {
+        super();
+    }
 
     /**
      * Creates a new instance of the note class
      * @param text The note text
      */
     public Note(String text) {
-        this.text = text;
+        super();
+        setText(text);
     }
 
     /**
@@ -24,7 +34,7 @@ public class Note implements Serializable{
      */
     @Override
     public String toString() {
-        return text;
+        return getString("text");
     }
 
     /**
@@ -32,6 +42,6 @@ public class Note implements Serializable{
      * @param text The new text
      */
     public void setText(String text) {
-        this.text = text;
+        put("text", text);
     }
 }

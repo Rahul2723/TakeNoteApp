@@ -1,3 +1,152 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_c1c642ad5face072dbee8dec5d3f5412c10c7aae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_c511bc9d64eaa1851c3c734bdc83896d3423d290\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_f070c1ef3910a208b30a378a9d5b9fdf43ac9524\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_fa4004346bf127f5992f1759ba48c14752ef0a73\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_af1a7d21f435a72b64f65256450108cc2b69f8d6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f856bc3c5844bfcad19c2946a02fb1b9b187658e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a3e400c32146557b1530780145357ca5ed18bbc5">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d48f5ee131437281aaed34a91060721f50acc3e3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_e3262eebf0f1317f0be830207296017a5847186e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_1d830114d826237dc9d53509f150b43d12e52a0b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.1\5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a\parse-android-1.13.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.1_3e2742197e0c0f634d6b9c2433cd4cf8c8f7a99a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_d3db0c5426f45e96aed3fdb492cc09d3c75abdd0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_294946eebfb59b6eb84e9ecf419bfc98b8ce71f0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="38fc9eb33664a60ad3aaf79e81ead91b3898d9b7">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f4fe2054e8980cce210a8f7927b4dc7807a4977e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_1f669d182f95f8ccd12a15c455c3cb4fb14af02d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_3583ac810618a6314ced9555380d489c16c50bc9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_1b8f33c859f134c0ad1e7d9110e7d82b334385c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_6e562358bc014bf934784055ac86b555e2d1fc41\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_89dc03425df84668e536311f6623ff84ffe7d6e4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8b64d5b51b2ffa4c31bccceb29bbaca126cf9fd4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b58e60a71fc9a8e1a63334bc203a773ba47d63ce\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Eidan\Documents\GitHub\TakeNoteApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_584c4543654371d2425d58d8d282b47c10c7d30d\classes.dex" />
+    </item>
+
+</items>
